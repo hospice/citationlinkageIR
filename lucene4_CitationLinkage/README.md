@@ -1,2 +1,3 @@
-# lucene4_cookbook_examples
-Sample codes for Lucene 4 Cookbook
+# lucene4_Citation_linkage
+
+Codes for Citation Linkage as an information retrieval task using Lucene 4 
